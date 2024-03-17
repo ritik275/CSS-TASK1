@@ -78,6 +78,7 @@ nav>h1{
 }
 
 #submit-button{
+    cursor: pointer;
     height: 40px;
     background-color: #007BFF;
     border: none;
